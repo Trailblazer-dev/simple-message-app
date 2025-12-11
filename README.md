@@ -39,3 +39,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - your_email@example.com
 
 Project Link: [https://github.com/Trailblazer-dev/simple-message-app](https://github.com/Trailblazer-dev/simple-message-app)
+
+## Screenshots
+![Chat Screenshot](chat-screenshot.jpg)
+![Message Overview](message-overview.jpg)
